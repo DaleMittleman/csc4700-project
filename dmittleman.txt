@@ -1,1 +1,3 @@
 GitHub Account: DaleMittleman
+Name: Dale Mittleman
+Major: Computer Science
